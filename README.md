@@ -1,6 +1,7 @@
 # practicing_pymongo
 
-#### another chapter in my practicing python technologies journey
+### Project description
+practicing Mongo DB in python 
 
 ***
 - learning how to work with [MongoDB](www.mongodb.com)
